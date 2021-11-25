@@ -1,9 +1,4 @@
-### Olá! Eu sou o Edlávio Alberto 🖖🏾
-
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]: www.facebook.com/Edlavio09
-
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]: www.twitter.com/edlavio9
-
+### Olá! Eu sou o Edlávio 🖖🏾
 
 Tecnologias que eu uso no meu Dia-a-dia:
 
