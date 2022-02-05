@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Edlávio 👩🏻‍💻</h1>
-<h3 align="center">Front-end Developer & love UI design.</h3>
+<h3 align="center">Front-end Developer & love Design Graphic and Games.</h3>
 
 🚀️  Fun fact **Programador apaixonado, amante de tecnologias sempre disposto a aprender.**
 
