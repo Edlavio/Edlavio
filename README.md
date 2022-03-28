@@ -1,5 +1,5 @@
 <h1 align="center">Hello✌ I'm Edlávio</h1> 
-<h3 align="center">Front-end Developer & Graphic designer.</h3> 
+<h3 align="center">Web Developer</h3> 
 
 <p align="center">🚀️ Fun fact Programador apaixonado, amante de tecnologias sempre disposto a aprender.</p>
 
@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/rafaballerini">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edlavio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edlavio&layout=compact&langs_count=7&theme=dark"/>
 </div> 
   
 ##
