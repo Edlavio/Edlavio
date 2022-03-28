@@ -1,12 +1,12 @@
 <h1 align="center">Hello✌ I'm Edlávio</h1> 
 <h3 align="center">Web Developer</h3> 
 
-<p align="center">🚀️ Fun fact Programador apaixonado, amante de tecnologias sempre disposto a aprender.</p>
+<p align="center">🚀️ Fun fact Amante de tecnologias sempre disposto a aprender coisas novas.</p>
 
 ##
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Edlavio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edlavio&layout=compact&langs_count=7&theme=dark"/>
 </div> 
   
