@@ -1,21 +1,44 @@
-<h1 align="center">Hello I'm Edlávio</h1> 
-<h3 align="center">Web Developer👨‍💻</h3> 
-
-<p align="center">🚀️ Fun fact Amante de tecnologias sempre disposto a aprender coisas novas.</p>
+<h1 align="center">Hi, Welcome 😁</h1> 
+<h4 align="center">My name is Pedro Alberto and I´m web developer. 🚀️</h4> 
+<h3 align="center">I'm Passionate about technologies always willing to learn new things.</h3>
 
 ##
+
+  <div align="center">
+  <a href="https://github.com/Edlavio">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edlavio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edlavio&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+ </div>
+ 
+ ##
+ 
+ <div align="center"> 
+  <a href="https://web.facebook.com/Edlavio9/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+ 
+##
+
+<h3 align="center">🛠️ <b>Languages and Tools that I work with:</b></h3>
 
 <div align="center">
-  <a href="https://github.com/Edlavio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edlavio&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div> 
-  
-##
-<div align="left">
-<img alt="Edlávio-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/79201879/157155864-d686809b-8b19-4910-b0c0-c33f179281a0.svg" />
-<img alt="Edlávio-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/79201879/157156554-b84394a7-fae8-4993-b955-58525c5ae63d.svg" />
-<img alt="Edlávio-JavaScript" height="30" width="40" src="https://user-images.githubusercontent.com/79201879/157156009-9aa4877d-5948-429d-8158-873608d6cfbb.svg" />
-<img alt="Edlávio-Git" height="30" width="40" src="https://user-images.githubusercontent.com/79201879/157155522-14f91dde-958d-45e4-b11f-d084fa67a653.svg" />
-<img alt="Edlávio-Linux" height="30" width="40" src="https://user-images.githubusercontent.com/79201879/157156832-56117362-8cfb-482a-9633-7c7ae885a5c6.svg" />
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+    </a>
 </div>
