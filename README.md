@@ -1,5 +1,10 @@
-<h1 align="center">My name is Pedro Alberto and I´m web developer. 🚀️</h1> 
-<h3 align="center">I'm Passionate about technologies always willing to learn new things.</h3>
+<h1>Hello, I'm Pedro Alberto✌️</h1>
+<h4 align="left">About Me:</h4> 
+<ul>
+  <li>Web Developer💻</li>
+  <li>I'm from Angola 🇦🇴</li>
+  <li>Game and anime lover🎯</li>
+</ul>
 
 ##
 
