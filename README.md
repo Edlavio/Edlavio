@@ -1,4 +1,8 @@
 <h1>Hello, I'm Pedro Alberto✌️</h1>
+ <div align="left"> 
+  <a href="https://web.facebook.com/Edlavio9/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/edlavio/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 <h4 align="left">About Me:</h4> 
 <ul>
   <li>Web Developer💻</li>
@@ -15,13 +19,6 @@
  </div>
  
  ##
- 
- <div align="center"> 
-  <a href="https://web.facebook.com/Edlavio9/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/edlavio/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
- 
-##
 
 <h3 align="center">🛠️ <b>Languages and Tools that I work with:</b></h3>
 
