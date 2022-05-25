@@ -41,6 +41,9 @@
      <a>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     </a>
+   <a>
+    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white&style=for-the-badge">
+ </a>
      <a>
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     </a>
