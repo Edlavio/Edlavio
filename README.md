@@ -1,14 +1,19 @@
 <h1>Hello, I'm Pedro Alberto✌️</h1>
+
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/79201879/171655566-38835c92-849f-4b0b-aaee-a66b97d1d47b.gif">
+</div>
+
+<h4 align="left">About Me:</h4> 
+<ul>
+  <li>Web Developer💻</li>
+  <li>I'm from Angola</li>
+  <li>Game and anime lover🎯</li>
+</ul>
  <div align="left"> 
   <a href="https://web.facebook.com/Edlavio9/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/edlavio/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<h4 align="left">About Me:</h4> 
-<ul>
-  <li>Web Developer💻</li>
-  <li>I'm from Angola 🇦🇴</li>
-  <li>Game and anime lover🎯</li>
-</ul>
 
 ##
 
