@@ -1,9 +1,5 @@
 <h1>Hello, I'm Pedro Alberto✌️</h1>
 
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/79201879/171655566-38835c92-849f-4b0b-aaee-a66b97d1d47b.gif">
-</div>
-
 <h4 align="left">About Me:</h4> 
 <ul>
   <li>Web Developer💻</li>
