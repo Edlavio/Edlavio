@@ -1,60 +1,65 @@
-<h1>Hello, I'm Pedro Alberto✌️</h1>
+# Hello, I'm Pedro Alberto✌️
 
-<h4 align="left">About Me:</h4> 
-<ul>
-  <li>Web Developer💻</li>
-  <li>I'm from Angola</li>
-  <li>Game and anime lover🎯</li>
-</ul>
+<h3 align="left">About Me:</h3> 
+
+- Web Developer💻
+- I'm from Angola
+- 🌱 I’m currently learning **JavaScript, React**
+- ⚡ Fun fact **Game and anime lover🎯**
+
  <div align="left"> 
   <a href="https://web.facebook.com/Edlavio9/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/edlavio/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-##
 
   <div align="center">
   <a href="https://github.com/Edlavio">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edlavio&layout=compact&langs_count=7&theme=dracula"/>
   </a>
  </div>
- 
- ##
 
 <h3 align="center">🛠️ <b>Languages and Tools that I work with:</b></h3>
 
 <div align="center">
-    <a>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <a href="https://www.w3schools.com/html/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 alt="HTML5" >
     </a>
-      <a>
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+      <a href="https://www.w3schools.com/css/default.asp">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 alt="CSS">
     </a>
-    <a>
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 alt="JavaScript">
     </a>
-    <a>
-        <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <a href="https://getbootstrap.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=40 alt="Bootstrap" >
     </a>
-    <a>
-        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+    <a href="https://bulma.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width=40 alt="Bulma" >
     </a>
-     <a>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <a href="https://sass-lang.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=40 alt="SASS" >
     </a>
-   <a>
-    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white&style=for-the-badge">
- </a>
-     <a>
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <a href="https://wordpress.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width=40 alt="Wordpress" >
     </a>
-    <a>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <a href="https://www.adobe.com/products/xd.html">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width=40 alt="Adobe XD" >
     </a>
-       <a>
-        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+     <a href="https://www.adobe.com/products/photoshop.html">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width=40 alt="Adobe Photoshop" >
     </a>
-          <a>
-        <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+    <a href="https://git-scm.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 alt="Git" >
+    </a>
+     <a href="https://www.linux.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=40 alt="Linux" >
+    </a>
+    <a href="https://www.microsoft.com/en-us/windows/?r=1">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=40 alt="Windows" >
     </a>
 </div>
+
+
+
+
+
