@@ -8,8 +8,8 @@
 - ⚡ Fun fact **Game and anime lover🎯**
 
  <div align="left"> 
-  <a href="https://web.facebook.com/Edlavio9/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/edlavio/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://web.facebook.com/Edlavio9/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/edlavio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <p></p>
