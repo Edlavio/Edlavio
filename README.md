@@ -24,12 +24,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=34 alt="JavaScript">
     </a>
-    <a href="https://getbootstrap.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=34 alt="Bootstrap" >
-    </a>
-    <a href="https://bulma.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width=34 alt="Bulma" >
-    </a>
     <a href="https://sass-lang.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=34 alt="SASS" >
     </a>
