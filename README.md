@@ -33,8 +33,11 @@
     <a href="https://www.adobe.com/products/xd.html">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width=34 alt="Adobe XD" >
     </a>
-     <a href="https://www.linux.org/">
+     <a href="https://www.microsoft.com/en-us/windows">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=34 alt="Linux" >
+    </a>
+    <a href="https://www.linux.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=34 alt="Windows" >
     </a>
 </div>
 
