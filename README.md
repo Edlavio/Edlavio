@@ -20,7 +20,7 @@
 
 <p></p>
 
-  <div align=left>
+  <div align="center">
    <a href="https://github.com/Edlavio">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edlavio&show_icons=true&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edlavio&layout=compact&show_icons=true&theme=dracula"/>
