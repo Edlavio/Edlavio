@@ -29,8 +29,6 @@
   </a>
 </div>
 
------
-
 <div align="left">
  <h3>Languages and Technologies</h3>
   <a href="https://skillicons.dev">
