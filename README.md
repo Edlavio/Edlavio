@@ -12,14 +12,14 @@
   <a href="https://github.com/Edlavio">
     <img src="https://img.shields.io/badge/github-Edlavio-211F1F?logo=github&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://www.linkedin.com/in/edlavio">
+  <a target="_blank" href="https://www.linkedin.com/in/edlavio">
     <img src="https://img.shields.io/badge/linkedin-edlavio-0072B1?logo=linkedin&style=flat-square" />
+  </a>
+    <a target="_blank" href="mailto:edlavio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff0000?logo=Gmail&logoColor=white&style=flat-square" />
   </a>
   <a href="https://github.com/Edlavio">
     <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-Edlavio&label=visitors&color=grey&style=flat" />
-  </a>
-    <a class="drift-open-chat" href="https://whe.me?chat">
-    <img src="https://img.shields.io/badge/Gmail-ff0000?logo=Gmail&logoColor=white&style=flat-square" />
   </a>
 </p>
 
