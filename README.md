@@ -24,8 +24,8 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Edlavio">
-    <img src="https://streak-stats.demolab.com/?user=Edlavio&theme=tokyonight_duo">
+   <a href="https://github.com/Edlavio">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edlavio&hide=html&layout=compact&theme=tokyonight">
   </a>
 </div>
 
