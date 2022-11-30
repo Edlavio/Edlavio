@@ -29,7 +29,7 @@
   </a>
 </div>
 
-<div align="left">
+<div align="center">
  <h3>Languages and Technologies</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,figma,linux,git" />
