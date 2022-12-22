@@ -15,7 +15,7 @@
     <a target="_blank" href="mailto:edlavio@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff0000?logo=Gmail&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://www.hackerrank.com/edlavio">
+  <a href="https://www.hackerrank.com/profile/edlavio">
     <img src="https://img.shields.io/badge/Hacker Rank-008000?logo=hackerrank&logoColor=white&style=flat-square" />
   </a>
 </p>
