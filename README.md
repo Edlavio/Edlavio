@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-ff0000?logo=Gmail&logoColor=white&style=flat-square" />
   </a>
   <a href="https://www.hackerrank.com/edlavio">
-    <img src="https://img.shields.io/badge/Hacker Rank-0088CC?logo=hackerrank&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Hacker Rank-008000?logo=hackerrank&logoColor=white&style=flat-square" />
   </a>
 </p>
 
