@@ -4,7 +4,7 @@
     <b>Hello there, I'm <a href="https://github.com/Edlavio">@Edlavio</a> 👋</b>
   </h1>
   <p align="center">
-    <samp>( 👨‍💻 Web Developer | ☁️ Student | 💼 Javascript, React )</samp>
+    <samp>( 👨‍💻 Web Developer | 💡 Learning MERN Stack | 🧠 I.T. Student )</samp>
   </p>
 </p>
 
