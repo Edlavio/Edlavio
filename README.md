@@ -2,19 +2,15 @@
 
 ### 📝 About me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-edlavio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edlavio)
+#### Front-End Engineer 💻
+#### Stack: ``JavaScript``
+#### Hobbie: Learn 🧠, Watch 🍿, Read 📖, Games 🎮
+
+### 📣 Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edlavio)
 [![Mail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edlavioe@duck.com)
 
-```json
-{
-  "Role": "Front-End Engineer 💻",
-  "Main Stack": "JavaScript",
-  "Hobbie": "Learn 🧠, Watch 🍿, Read 📖, Games 🎮"
-}
-```
-
  ## 🛠️ Languages and Tools:
- 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
