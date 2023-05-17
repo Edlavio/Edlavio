@@ -3,7 +3,7 @@
 ### 📝 About me:
 
 #### Front-End Engineer 💻
-#### Stack: ``JavaScript``
+#### Stack: ``JavaScript``, ``React``
 #### Hobbie: Learn 🧠, Watch 🍿, Read 📖, Games 🎮
 
 ### 📣 Contact:
