@@ -7,8 +7,8 @@
 #### Hobbie: Learn 🧠, Watch 🍿, Read 📖, Games 🎮
 
 ### 📣 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edlavio)
-[![Mail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edlavioe@duck.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Alberto-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edlavio/)](https://www.linkedin.com/in/edlavio/)
+[![Gmail Badge](https://img.shields.io/badge/-edlavioe@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edlavioe@gmail.com)](mailto:edlavioe@gmail.com)
 
  ## 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
