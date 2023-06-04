@@ -2,9 +2,9 @@
 
 ### 📝 About me:
 
-#### Front-End Developer 💻
-#### Stack: ``JavaScript``, ``React``
-#### Hobbie: Learn 🧠, Watch 🍿, Read 📖, Games 🎮
+- #### Front-End Developer 💻
+- #### Stack: ``JavaScript``, ``React``
+- #### Hobbie: Learn 🧠, Watch 🍿, Read 📖, Games 🎮
 
 ### 📣 Contact:
 [![Portfólio Badge](https://img.shields.io/badge/Portf%C3%B3lio-edlavio.eu.org-0077B5?style=flat-square&logo=ghostery&logoColor=white)](https://edlavio.eu.org/)
