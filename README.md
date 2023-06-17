@@ -4,7 +4,8 @@
 
 - #### Front-End Developer and UI Designer 
 - #### Stack: ``JavaScript``, ``React``
-- #### Hobbie: Learn 🧠, Watch 🍿, Read 📖, Games 🎮
+I love learn new things and solve challenges, fun fact I love read books, watch and play video games
+
 [![Portfólio Badge](https://img.shields.io/badge/Portfolio-edlavio.eu.org-0077B5?style=flat-square&logo=ghostery&logoColor=white)](https://edlavio.eu.org/)
 
 ### 📣 Contact:
