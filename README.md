@@ -1,5 +1,3 @@
-#  Hello there, I'm <a href="https://github.com/Edlavio">@Edlavio</a> 👋
-
 📝 About me:
 -
 
