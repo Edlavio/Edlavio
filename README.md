@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0077B5&width=435&lines=Hello%2C+I'm+Pedro+Alberto;I'm+Web+Developer+;I.T.+Student)](https://git.io/typing-svg)
+
 📝 About me:
 -
 
