@@ -11,7 +11,7 @@ My Portfolio:
 
 ### 📣 Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Alberto-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edlavio/)](https://www.linkedin.com/in/edlavio/)
-[![Gmail Badge](https://img.shields.io/badge/-edlavioe@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edlavioe@gmail.com)](mailto:edlavioe@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hello@edlavio.eu.org-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@edlavio.eu.org)](mailto:hello@edlavio.eu.org)
 
  ## 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
