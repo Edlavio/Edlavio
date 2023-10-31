@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0077B5&width=435&lines=Hello%2C+I'm+Pedro+Alberto;I'm+Web+Developer+;I.T.+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=ffffff&width=435&lines=Hello%2C+I'm+Pedro+Alberto;I'm+Software+Developer+;I.T.+Student)](https://git.io/typing-svg)
 
 📝 About me:
 -
 
-I'm **Front-End Developer** and **UI Designer**, I love learn new things and solve challenges, I'm open to collaborations and new projects. 
+I'm **Software Developer** focus on **Front-End** for now and **UI Designer**, I love learn new things and solve challenges, I'm open to collaborations and new projects.
 
 My Portfolio:
 
