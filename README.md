@@ -3,7 +3,7 @@
 📝 About me:
 -
 
-I'm **Software Developer** focus on **Front-End** for now and **UI Designer**, I love learn new things and solve challenges, I'm open to collaborations and new projects.
+I am a **Software Developer**, I am passionate about prioritizing user experience. I am always eager to learn and take on new challenges. I am also open to collaborating on exciting new projects.
 
 My Portfolio:
 
