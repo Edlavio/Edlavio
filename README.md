@@ -3,7 +3,7 @@
 📝 About me:
 -
 
-I am a **Software Developer**, I am passionate about prioritizing user experience. I am always eager to learn and take on new challenges. I am also open to collaborating on exciting new projects.
+As a **Software Developer**, I am passionate about prioritizing user experience. I am always eager to learn and take on new challenges. I am also open to collaborating on exciting new projects.
 
 My Portfolio:
 
